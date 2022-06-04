@@ -33,6 +33,11 @@ import net.minecraft.util.math.vector.Vector3d;
 import net.minecraft.world.World;
 import net.minecraft.world.server.ServerWorld;
 
+/*
+* Notes on Citadel can be found in /notes/citadel.md
+* */
+
+
 import javax.annotation.Nullable;
 import java.util.List;
 
